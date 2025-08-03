@@ -36,10 +36,6 @@ npm start
 Or if using Expo:
 expo start
 
-yaml
-Copy
-Edit
-
 > 📱 App will run on Android/iOS simulator or Expo Go app.
 
 ---
